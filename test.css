@@ -1,0 +1,12 @@
+.rounded-logo {
+  width: 40px;
+  border-radius: 40px;
+  object-fit: cover;
+  position: static;
+  right: 10px;
+  margin-left: 8px;
+  cursor: pointer;
+}
+.style {
+  visibility: hidden;
+}
